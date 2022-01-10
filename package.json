@@ -1,0 +1,20 @@
+{
+  "name": "babel-preset-tr",
+  "version": "0.0.1",
+  "description": "JSX transformation preset based on babel",
+  "keywords": [
+    "Tr",
+    "jsx-transform",
+    "babel",
+    "babel-preset"
+  ],
+  "type": "commonjs",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.16.7"
+  },
+  "author": "Hang",
+  "homepage": "https://github.com/Hangggggg/babel-preset-tr",
+  "repository": "https://github.com/Hangggggg/babel-preset-tr",
+  "license": "MIT"
+}

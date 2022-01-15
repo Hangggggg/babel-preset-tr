@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-tr",
-  "version": "0.0.1",
-  "description": "JSX transformation preset based on babel",
+  "version": "0.1.0",
+  "description": "Tr preset based on babel",
   "keywords": [
     "Tr",
     "jsx-transform",

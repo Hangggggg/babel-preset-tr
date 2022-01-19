@@ -1,6 +1,6 @@
 {
-  "name": "babel-preset-tr",
-  "version": "0.1.0",
+  "name": "@hangteam/babel-preset-tr",
+  "version": "0.1.1",
   "description": "Tr preset based on babel",
   "keywords": [
     "Tr",

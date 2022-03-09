@@ -13,7 +13,7 @@ babel.config.json
 
 ## options
 
-|     name      |          value           |           description           |
-| :-----------: | :----------------------: | :-----------------------------: |
-| autoInjection | Boolean（default：true） | Automatic inject 'Tr' variable |
+|     name      |          type          |          default          |           description           |
+| :-----------: | :----------------------: | :-----------------------------: | :-----------------------------: |
+| autoInjection | {Boolean} | true | Automatic inject 'Tr' variable |
 

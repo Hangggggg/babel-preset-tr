@@ -16,4 +16,5 @@ babel.config.json
 |     name      |          type          |          default          |           description           |
 | :-----------: | :----------------------: | :-----------------------------: | :-----------------------------: |
 | autoInjection | {Boolean} | true | Automatic inject 'Tr' variable |
+| from | {String} | '@hangteam/tr' | Automatic get the path of 'Tr' variable |
 

@@ -1,20 +1,29 @@
 {
   "name": "@hangteam/babel-preset-tr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Tr preset based on babel",
   "keywords": [
-    "Tr",
+    "tr",
     "jsx-transform",
     "babel",
     "babel-preset"
   ],
-  "type": "commonjs",
-  "main": "lib/index.js",
-  "dependencies": {
-    "@babel/plugin-syntax-jsx": "^7.16.7"
+  "main": "index.js",
+  "engines": {
+    "node": ">=14",
+    "npm": ">=7"
   },
   "author": "Hang",
-  "homepage": "https://github.com/Hangggggg/babel-preset-tr",
-  "repository": "https://github.com/Hangggggg/babel-preset-tr",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Hangggggg/babel-preset-tr#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hangggggg/babel-preset-tr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hangggggg/babel-preset-tr/issues"
+  },
+  "peerDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.16.7"
+  }
 }
